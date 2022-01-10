@@ -1,0 +1,25 @@
+[Global]
+CurrentProject=V9LanguageFeatures.vpj
+[ProjectDates]
+V9LanguageFeatures.vpj=20080430204429069
+[TreeExpansion2]
+- V9LanguageFeatures.vpj
+  - Source Files
+  + Header Files
+  + Toolkit Script Files
+  + Other Files
+scroll:0
+[State]
+SCREEN: 1600 1200 115 115 1011 761 0 0 M 0 0 0 0 1342 543 0
+CWD: ..\Synergy9Examples
+FILEHIST: 9
+..\SRC\CollectionOfRecords.dbl
+..\SRC\CollectionOfStructs.dbl
+..\SRC\DataStatement.dbl
+..\SRC\DynamicArrayOfStructs.dbl
+..\SRC\Enumeration.dbl
+..\SRC\UsingStructures.dbl
+SRC\Enumeration.dbl
+SRC\CollectionOfRecords.dbl
+SRC\CollectionOfStructs.dbl
+TBCLASS: 0 0
